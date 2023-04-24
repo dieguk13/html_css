@@ -39,9 +39,16 @@ img {
     border-style: solid;
     border-radius: 50%;
 }
-.borde_redondo{
+.borde_redondo {
     border-radius: 150px;
 }
 div {
 background-color: silver;
+}
+
+#titulo_app {
+    font-size: 40px;
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+
 }
