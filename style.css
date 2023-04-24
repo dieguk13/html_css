@@ -37,4 +37,8 @@ img {
     border-width: 10px;
     border-color: brown;
     border-style: solid;
+    border-radius: 50%;
+}
+.borde_redondo{
+    border-radius: 150px;
 }
