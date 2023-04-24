@@ -32,7 +32,7 @@ img {
     width: 200px;
 }
 
-.persa{
+.persa {
     width: 300px;
     border-width: 10px;
     border-color: brown;
@@ -41,4 +41,7 @@ img {
 }
 .borde_redondo{
     border-radius: 150px;
+}
+div {
+background-color: silver;
 }
