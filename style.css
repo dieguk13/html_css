@@ -54,9 +54,24 @@ background-color: silver;
 }
 
 #gato_naranja {
+    margin: 20px 15px;
     padding: 20px 10px 12px 15px;
     background-color: chartreuse;
-    border-width: 2px;
-    border-color: crimson;
+    border-width: 4px;
+    border-color: black;
     border-style: solid;
+    
 }
+ [type="radio"] {
+    margin: 6px;
+ }
+
+ [type="checkbox"] {
+    margin: 6px;
+ }
+
+ [href="https://www.youtube.com/watch?v=-ALOwx-RHm4&list=RD-ALOwx-RHm4&index=2"] {
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+ }
