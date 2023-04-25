@@ -42,9 +42,7 @@ img {
 .borde_redondo {
     border-radius: 150px;
 }
-div {
-background-color: silver;
-}
+
 
 #titulo_app {
     font-size: 40px;
@@ -74,4 +72,36 @@ background-color: silver;
     color: red;
     text-decoration: none;
     font-weight: bold;
+ }
+
+ #contenedor_principal {
+    color: white;
+    padding: 5px;
+    font-size: 10px;
+    background-color: yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+ .rectangulo {
+    padding: 5px;
+    margin: 5px;
+ }
+
+ .px {
+    background-color: crimson;
+    width: 200px;
+ }
+
+ .vw {
+    background-color: darkmagenta;
+    width: 20vw;
+ }
+
+ .em {
+    background-color: blue;
+    width: 15em;
+ }
+
+ body {
+    color: silver;
  }
